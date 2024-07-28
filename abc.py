@@ -4,3 +4,4 @@ def sum(a,b):
 print(sum(5,2))
 print(sum(2,3))
 print(sum(6,1))
+print(sum(8,2))
